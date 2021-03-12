@@ -25,6 +25,6 @@ https://noemiegrau.github.io/run-buddy/
 https://github.com/Noemiegrau/password-generator
 
 ## **_Contribution_**
-Made with ❤️ by Noemie
+Made with ❤️  by Noemie
 
 ### ©️2019 Run Buddy, Inc
