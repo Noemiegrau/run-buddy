@@ -20,7 +20,7 @@ A website that offers fitness training services.
 ![run-buddy-screenshot](https://user-images.githubusercontent.com/78329298/110898167-90800d00-82b3-11eb-863b-ff62d3e5e2c3.png)
 
 ## **_Installation_**
-Here are some guidelines for installing the project on your local machine in order to be able to try it:
+Here are some guidelines for installing the project on your local machine:
 
 1. Clone or download the repository to your own local machine.
 
